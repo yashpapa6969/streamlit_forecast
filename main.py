@@ -1,5 +1,4 @@
 import streamlit as st
-from tensorflow.keras.models import load_model
 import tensorflow as tf
 import pandas as pd
 
