@@ -1,6 +1,8 @@
 import streamlit as st
 import tensorflow as tf
 import pandas as pd
+from tensorflow.keras.models import load_model
+
 
 # Load the pre-trained model
 
